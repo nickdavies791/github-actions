@@ -1,1 +1,1 @@
-Random readme file§
+Random readme file

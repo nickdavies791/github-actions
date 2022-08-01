@@ -8,8 +8,7 @@ on:
       - synchronize
   push:
     branches:
-      - master
-      - 'dev/*'
+      - main
 
 jobs:
   check-commit-message-style:

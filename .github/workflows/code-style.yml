@@ -11,5 +11,3 @@ jobs:
     steps:
       - name: Check
         uses: mristin/opinionated-commit-message@v3.0.0
-        with:
-          enforce-sign-off: 'true'
